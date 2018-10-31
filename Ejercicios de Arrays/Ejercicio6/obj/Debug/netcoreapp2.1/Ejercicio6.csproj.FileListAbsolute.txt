@@ -1,0 +1,11 @@
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\bin\Debug\netcoreapp2.1\Ejercicio6.deps.json
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\bin\Debug\netcoreapp2.1\Ejercicio6.runtimeconfig.json
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\bin\Debug\netcoreapp2.1\Ejercicio6.runtimeconfig.dev.json
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\bin\Debug\netcoreapp2.1\Ejercicio6.dll
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\bin\Debug\netcoreapp2.1\Ejercicio6.pdb
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\obj\Debug\netcoreapp2.1\Ejercicio6.csprojAssemblyReference.cache
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\obj\Debug\netcoreapp2.1\Ejercicio6.csproj.CoreCompileInputs.cache
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\obj\Debug\netcoreapp2.1\Ejercicio6.AssemblyInfoInputs.cache
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\obj\Debug\netcoreapp2.1\Ejercicio6.AssemblyInfo.cs
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\obj\Debug\netcoreapp2.1\Ejercicio6.dll
+D:\Visual\Programas\Ejercicios de Arrays\Ejercicio6\obj\Debug\netcoreapp2.1\Ejercicio6.pdb
